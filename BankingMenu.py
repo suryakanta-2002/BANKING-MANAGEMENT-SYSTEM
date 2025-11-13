@@ -1,0 +1,16 @@
+#BankingMenu.py <------Module Name
+def menu():
+    print("-"*50)
+    print("\tBANKING INFORMATION SYSTEM")
+    print("-" * 50)
+    print("\t1. Add New Customer  (Opening an Account)")
+    print("\t2. Delete Customer   ( Closing an Account)")
+    print("\t3. Deposit")
+    print("\t4. WithDraw")
+    print("\t5. View Customer Details")
+    print("\t6. View All Customer Details")
+    print("\t7. Search Customer Details")
+    print("\t8. Pin Update")
+    print("\t9. Pin Generate")
+    print("\t10. Exit")
+    print("-"* 50)
